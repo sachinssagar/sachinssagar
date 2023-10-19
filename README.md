@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning ReactJs.
 - ❓ Ask me about anything related to ReactJs, SQL.
 - 📫 How to reach me: sachinssagar@gmail.com
+
+---
   
 <br />
 <div align="center">
