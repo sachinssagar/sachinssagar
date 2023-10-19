@@ -18,8 +18,8 @@
 <br/>
 <p align="center">
 <a href="https://github.com/sachinssagar">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sachinssagar&show_icons=true&theme=tokyonight&locale=en" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinssagar&show_icons=true&theme=tokyonight&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinssagar&show_icons=true&theme=tokyonight&locale=en" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinssagar&show_icons=true&theme=tokyonight&locale=en"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinssagar&show_icons=true&theme=tokyonight&locale=en"/>
 </a>
 </p>
