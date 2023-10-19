@@ -31,21 +31,9 @@
 </p>
 <br/>  
 
-<div align="center">
-    <a href="https://github.com/sachinssagar" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
-            alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/itssachinsagar" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-            alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/sachin2k27sagar" target="_blank">
-        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
-            alt=instagram style="margin-bottom: 5px;" />
-    </a>
-</div>
-<br />
+
+
+---
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -66,3 +54,22 @@
   ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+
+---
+
+### 🤝🏻 &nbsp;Connect with Me 
+
+  <div align="center">
+    <a href="https://github.com/sachinssagar" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
+            alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/itssachinsagar" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+            alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://instagram.com/sachin2k27sagar" target="_blank">
+        <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
+            alt=instagram style="margin-bottom: 5px;" />
+    </a>
+</div>
