@@ -1,6 +1,8 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e) 
 <div align="center"> <h1>Hi 👋, I'm Sachin Sagar</h1></div> 
 
+### 👨🏻‍💻 &nbsp;About Me
+
 - 🌱 I’m currently learning ReactJs.
 - ❓ Ask me about anything related to ReactJs, SQL.
 - 📫 How to reach me: sachinssagar@gmail.com
