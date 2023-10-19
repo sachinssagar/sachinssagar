@@ -20,16 +20,26 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinssagar&show_icons=true&theme=tokyonight&locale=en"
         alt="sachinssagar" />
 </p>
-<p> &nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sachinssagar&show_icons=true&theme=tokyonight&locale=en"
-        alt="sachinssagar" />
+<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinssagar&show_icons=true&theme=tokyonight&locale=en" alt="sachinssagar" />
 </p>
 <p>
-    <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=sachinssagar&show_icons=true&theme=tokyonight&locale=en"
-        alt="sachinssagar" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinssagar&show_icons=true&theme=tokyonight&locale=en" alt="sachinssagar" />
 </p>
 <br/>  
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=sachinssagar&&style=flat-square" align="center" />
+</div>
+
+<p align="center">
+<a href="https://github.com/sachinssagar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinssagar&show_icons=true&theme=tokyonight&locale=en" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinssagar&show_icons=true&theme=tokyonight&locale=en"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinssagar&show_icons=true&theme=tokyonight&locale=en"/>
+</a>
+</p>
 
 
 
